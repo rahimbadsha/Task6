@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tasks6</string>
+    <string name="phone_number">01632888127</string>
+    <string name="chief_title">Chief</string>
+    <string name="campus_chief">Campus Chief</string>
+    <string name="details_phone_label">Phone</string>
+    <string name="av_details_email">Email</string>
+    <string name="av_district">District</string>
+</resources>
