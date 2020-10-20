@@ -1,0 +1,15 @@
+{
+  "id": 101,
+  "name": "Pizza Italiazano",
+  "price": 279,
+  "isFavorite": true,
+  "imageUrl": "",
+  "rating": 4.8,
+  "description": "This pizza's test is awesome, you can try it once",
+  "restaurantName": "Mirpur",
+  "ingredients": [
+    "Chicken",
+    "Mashroom",
+    "Cheese"
+  ]
+}
