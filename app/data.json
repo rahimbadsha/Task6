@@ -6,10 +6,5 @@
   "imageUrl": "https://i.imgur.com/bVRpCsa.jpg",
   "rating": 4.8,
   "description": "This pizza's test is awesome, you can try it once",
-  "restaurantName": "Mirpur",
-  "ingredients": [
-    "Chicken",
-    "Mashroom",
-    "Cheese"
-  ]
+  "restaurantName": "Mirpur"
 }
