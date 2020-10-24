@@ -7,7 +7,7 @@
     "author": "Tamim Shariar Subeen",
     "price": 450,
     "discount": 50,
-    "rating": 4.8
+    "rating": 4.5
   },
   {
     "id": 103,
@@ -16,7 +16,7 @@
     "description": "Basic C programming with example. You will learn in best way to write code",
     "author": "Dr. Abdulla Jahangir",
     "price": 450,
-    "discount": 50,
+    "discount": 0,
     "rating": 4.0
   },
   {
@@ -27,7 +27,7 @@
     "author": "Tamim Shariar Subeen",
     "price": 450,
     "discount": 50,
-    "rating": 4.8
+    "rating": 3.5
   },
   {
     "id": 103,
