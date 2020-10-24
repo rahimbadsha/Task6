@@ -26,7 +26,7 @@
     "description": "Basic C programming with example. You will learn in best way to write code",
     "author": "Tamim Shariar Subeen",
     "price": 450,
-    "discount": 50,
+    "discount": 0,
     "rating": 3.5
   },
   {
@@ -36,7 +36,7 @@
     "description": "Basic C programming with example. You will learn in best way to write code",
     "author": "Tamim Shariar Subeen",
     "price": 450,
-    "discount": 50,
+    "discount": 0,
     "rating": 4.8
   },
   {
@@ -46,7 +46,7 @@
     "description": "Basic C programming with example. You will learn in best way to write code",
     "author": "Tamim Shariar Subeen",
     "price": 450,
-    "discount": 50,
+    "discount": 0,
     "rating": 4.8
   },
   {
